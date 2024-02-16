@@ -1,0 +1,7 @@
+.homePageContainer {
+    min-width: 600px;
+    max-width: 600px;
+    min-height: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
